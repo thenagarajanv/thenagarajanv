@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nagarajan</h1>
 <h3 align="center">🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology & Engineering. 👨‍💻 I am passionate about Machine Learning & I enjoy learning new things.</h3>
 
-<p align="left"> <a href="https://twitter.com/thenagarajanv" target="blank"><img src="https://img.shields.io/twitter/follow/thenagarajanv?logo=twitter&style=for-the-badge" alt="thenagarajanv" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thenagarajanv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thenagarajanv" height="30" width="40" /></a>
