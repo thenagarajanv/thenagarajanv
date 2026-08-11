@@ -1,143 +1,130 @@
+```markdown
 # Hey 👋, I'm Nagarajan V
 
-### Backend Software Engineer | Distributed Systems | Cloud | AI
+### AI Engineer | Python Backend | Generative AI
 
-Backend Engineer with experience building production-grade distributed systems using Python, FastAPI, PostgreSQL, AWS, and GCP. Passionate about scalable backend architectures, cloud infrastructure, observability, and AI-powered applications.
-
----
-
-## 🚀 About Me
-
-* 💼 Backend Engineer at Turbostart India
-* 🔭 Building scalable APIs, microservices, and cloud-native systems
-* ☁️ Working with AWS, GCP, PostgreSQL, Docker, and CI/CD pipelines
-* 🤖 Exploring AI Agents, RAG Systems, and LLM-powered applications
-* 📚 Learning System Design, Reliability Engineering, and Distributed Systems
-* 🌱 Open Source Contributor
+AI/Backend Engineer focused on building scalable backend systems and
+Generative AI applications using Python, FastAPI, LangChain, LLMs,
+RAG, PostgreSQL, and cloud technologies.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 🐍 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 
-### Backend
+### ⚡ Backend & APIs
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063)
+![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
-### Database
+### 🤖 Generative AI & LLM
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757)
+![Ollama](https://img.shields.io/badge/Ollama-000000)
 
-### Cloud & DevOps
+**Core Areas**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+`LLM Integration` `RAG` `Prompt Engineering` `Embeddings`
+`Vector Search` `AI Agents` `Tool Calling` `MCP`
 
-### AI & Machine Learning
+### 🗄️ Databases & Retrieval
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-purple)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00)
 
-### Data & ML Foundations
+### 📊 Data
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
----
+`Data Processing` `Embeddings` `Semantic Search` `Vector Search`
 
-## 💼 Experience
+### ☁️ Cloud & DevOps
 
-### Backend Engineer @ Turbostart India
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazonec2&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
-**Jun 2025 - Present**
+`AWS` `EC2` `Docker` `CI/CD` `GitHub Actions`
 
-* Led backend development
-* Improved API latency by **30%**
-* Reduced PostgreSQL query execution time by **40%**
-* Built scalable REST and GraphQL microservices
-* Managed deployments, monitoring, debugging, and production support
+### 🔧 Developer Tools
 
-### CloudVerse.AI (Client Project)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
-* Built cloud telemetry ingestion services across AWS and GCP
-* Reduced cloud cost visibility lag by **80%**
-* Integrated CloudWatch and GCP Monitoring
-* Developed infrastructure analytics APIs
+`Git` `GitHub` `Bitbucket` `Jira` `Postman` `Swagger` `OpenAPI`
 
 ---
 
-## 🚀 Featured Project
+## 🧠 Areas of Interest
 
-### GuideAgent AI
-
-AI-powered software guidance platform with voice interaction support.
-
-**Tech Stack**
-
-* FastAPI
-* Next.js
-* WebSockets
-* RAG
-* Ollama
-* PostgreSQL
-
-**Highlights**
-
-* Real-time AI guidance
-* Context-aware software navigation
-* Voice interaction
-* Low-latency communication architecture
+- Generative AI & Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Tool Calling
+- LLM Application Development
+- Backend Engineering
+- API Development
+- Vector Search & Semantic Search
+- Distributed Systems
+- Cloud Computing
+- System Design
 
 ---
 
-## 🏆 Certifications
+## 🚀 Currently Learning
 
-* FinOps Certified Practitioner
-* AWS Cloud Security Foundations
-* Low Level Design (Scaler)
-* Google Cloud Facilitator
-* Postman Student Expert
-* NPTEL Data Structures & Algorithms (Silver)
+- Advanced LangChain
+- RAG Architecture
+- LLM Application Architecture
+- AI Agents
+- Tool Calling
+- Model Context Protocol (MCP)
+- LLM Evaluation
+- AI Application Deployment
+- AI Guardrails
 
 ---
 
-## 🌟 Leadership & Community
+## 📊 GitHub
 
-* Founder, Google Developer Groups (GDG) On Campus - KCE
-* Organized technical events for 500+ students
-* Google Summer of Code Contributor
-* GirlScript Summer of Code Contributor
-* Google Kickstart Participant
-* Meta Hacker Cup Participant
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thenagarajanv&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenagarajanv&layout=compact&hide_border=true" width="40%" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-* 🌐 Portfolio: https://nagarajanv.netlify.app
-* 💼 LinkedIn: https://linkedin.com/in/itsmenagarajanv
-* 🐙 GitHub: https://github.com/thenagarajanv
-* 📧 Email: [thenagarajanv@gmail.com](mailto:thenagarajanv@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/itsmenagarajanv">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/thenagarajanv">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white" />
+  </a>
+  <a href="https://nagarajanv.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 💡 Favorite Quote
-
-It always seems impossible until it’s done
+⭐ Building, learning, and experimenting with AI-powered software.
+```
