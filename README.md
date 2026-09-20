@@ -12,6 +12,8 @@
 
 I am a passionate **Backend and AI Engineer** specializing in **Generative AI, Multi-Agent Systems, and MLOps**. I thrive on building scalable APIs, architecting complex AI workflows, and integrating advanced RAG systems to create intelligent applications. 
 
+Portfolio : https://itsnagarajanv.vercel.app/
+
 - 🔭 **Currently working on:** Machine Learning, MLOps, Multi-Agent Workflows, and AI Automation
 - 🌱 **Currently exploring:** Advanced LangChain, RAG architectures, and scalable Vector Search
 - 👯 **Open to collaborating on:** Open Source AI initiatives and innovative backend projects
